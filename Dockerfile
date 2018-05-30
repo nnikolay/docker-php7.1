@@ -1,6 +1,6 @@
 FROM ubuntu:16.04
 
-MAINTAINER Massimiliano Arione <garakkio@gmail.com>
+MAINTAINER Nikolay Nikolov
 
 # Set correct environment variables
 ENV HOME /root
